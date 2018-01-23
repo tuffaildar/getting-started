@@ -1,0 +1,54 @@
+{
+  "activeFlag": false,
+  "configJson": "",
+  "releaseVersion": "17.10.1",
+  "forms": [
+    "first-application"
+  ],
+  "components": [],
+  "templates": [],
+  "libraries": [
+    "tuffail-dar-library"
+  ],
+  "libraryIncludes": [
+    {
+      "nameNorm": "identity",
+      "sequenceNumber": 4,
+      "type": "Release",
+      "version": "17.10.1"
+    },
+    {
+      "nameNorm": "maguire",
+      "sequenceNumber": 5,
+      "type": "Release",
+      "version": "17.10.1"
+    },
+    {
+      "nameNorm": "core",
+      "sequenceNumber": 3,
+      "type": "Release",
+      "version": "17.10.1"
+    },
+    {
+      "nameNorm": "navigation",
+      "sequenceNumber": 6,
+      "type": "Release",
+      "version": "17.10.1"
+    },
+    {
+      "nameNorm": "cards",
+      "sequenceNumber": 2,
+      "type": "Release",
+      "version": "17.10.1"
+    },
+    {
+      "nameNorm": "tuffail-dar-library",
+      "sequenceNumber": 1,
+      "type": "Project",
+      "version": "1.0.0"
+    }
+  ],
+  "description": "",
+  "name": "Tuffail Dar",
+  "nameNormalized": "tuffail-dar"
+}
