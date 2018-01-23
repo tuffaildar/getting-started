@@ -1,1 +1,0 @@
-java -jar transact-cli-17.10.0.jar
